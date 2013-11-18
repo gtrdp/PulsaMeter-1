@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PulsaMeter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_daftar">Daftar</string>
+    <string name="title_activity_pulsa">Pulsa</string>
+    <string name="title_activity_internet">Internet</string>
+    <string name="title_activity_ubah_nama">UbahNama</string>
+    
+    <color name="white">#515151</color>
+
+</resources>
